@@ -1,0 +1,10 @@
+Nr Paragonu :2
+ Dane  
+Parowki
+ cena 5.4
+ 500g
+ data produkcj 2021-11-12
+ data spozycia 2023-03-04
+ SUMA: 5.4
+
+ dataParagonu 2022-01-19 13:55:15
